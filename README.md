@@ -1,5 +1,5 @@
 # disinfo
-## Repository for https://www.memelab.org/content/generating-disinformation-and-testing-its-coherence
+## Repository for http://www.memelab.org/content/generating-disinformation-and-testing-its-coherence
 
 This repo hosts code to generate conspiratorially-minded output from GPT2 as well as surveyed data testing the "coherence" of the output. `hysteria.txt` is the disinfo corpus, with `hysteria_qs.pdf` and `hysteria_answers.pdf` constituting the collected coherence datapoints. 
 
